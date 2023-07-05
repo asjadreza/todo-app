@@ -1,0 +1,2 @@
+# todo-app
+# The app allows users to create a to-do list, add tasks to it, mark tasks as      completed, and remove tasks as needed. The user interface is designed to be clean    and user-friendly, with a minimalistic design.
